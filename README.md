@@ -2,6 +2,8 @@
 
 ### Goal: Enable your user to enter a date and return the picture/video of the day from NASA's API.
 
+## NASA 'A Picture of the Day' project allows users to enter any previous date (or today's date) to receive NASA's picture of the day, with a description of the picture received. 
+
 *Project completed using HTML, CSS, and Javascript.*
 
 ![NASA APOD](apodimg.png)
